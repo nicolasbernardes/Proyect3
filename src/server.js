@@ -6,7 +6,6 @@ const session = require('express-session');
 const passport = require('passport');
 const morgan = require('morgan');
 
-const path = require('path');
 
 
 // initializations
